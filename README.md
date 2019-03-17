@@ -1,3 +1,5 @@
+Les données sont issues du dataset Kaggle : https://www.kaggle.com/c/bike-sharing-demand
+
 Plusieurs modèles ont été implémentés pour prédire la variable count : un gradient boosting et une régression RIDGE.
 
 Les données étaient initialement nettoyées, j'ai constaté très peu de données manquantes, permettant ainsi une exploitation et une analyse plus simple de celles-ci. 
